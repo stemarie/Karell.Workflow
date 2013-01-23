@@ -1,3 +1,0 @@
-obj\x86\Debug\_WorkflowConsoleApplication1.g.cs
-obj\x86\Debug\Workflow1.g.cs
-obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.cs
